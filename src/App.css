@@ -1,3 +1,10 @@
+body {
+  background-color: hsl(284, 88%, 93%);
+}
+
+a {
+  color: rgb(150, 31, 219);
+}
 .App-header {
   margin-top: 30px;
   margin-bottom: 20px;
