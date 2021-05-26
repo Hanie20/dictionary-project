@@ -2,6 +2,11 @@ body {
   background-color: hsl(284, 88%, 93%);
 }
 
+.App {
+  max-width: 950px;
+  margin: 0 auto;
+}
+
 a {
   color: rgb(150, 31, 219);
 }
