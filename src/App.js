@@ -11,7 +11,7 @@ function App() {
         alt="logo" />
       </header>
      <main>
-       <Dictionary />
+       <Dictionary defaultKeyword="hello"/>
         </main>
         <footer className="App-footer"> 
         <small > 
